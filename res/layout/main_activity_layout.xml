@@ -71,4 +71,13 @@
         android:layout_below="@+id/edtEmail"
         android:text="Regjistro" />
 
+    <Button
+        android:id="@+id/btnTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnRegjistro"
+        android:layout_alignRight="@+id/btnRegjistro"
+        android:layout_below="@+id/btnRegjistro"
+        android:text="Qele 1 intent tjeter" />
+
 </RelativeLayout>
